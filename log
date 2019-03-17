@@ -1,0 +1,15 @@
+ssm + log4j +junit
+问题
+第一天：忘记记了
+atchetype internal
+设置maven 下载源.. aliyun
+
+
+第二天：
+书上测试resultMap不能使用，同样会报错 can't find result map com.syh.model.AyUser
+需要使用resultType 需要好好看mybatis的基础
+建议安装 mybatis 插件，有错误会显红。
+（idea 插件安装不了网络问题，请百度，设置一下就好了）
+就此简单完成第一个简单的ssm。
+接下去集成log4J
+
